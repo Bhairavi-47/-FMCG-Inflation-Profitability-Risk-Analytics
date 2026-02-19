@@ -49,26 +49,44 @@ Includes:
 
 ## Key Insights (To be added)
 
-- High revenue contribution comes from Dairy and Beverage categories  
-- Certain categories show declining margins due to rising raw material costs  
-- Medium-risk segments require close monitoring for inflation impact  
-- Regional profitability varies significantly across markets  
+- Based on the Power BI dashboard and SQL analysis, the following insights were identified:
+
+- *Dairy and Beverage categories contribute the highest revenue*, making them core focus segments.
+- Certain categories such as *Snacks show low or negative profit margins*, indicating urgent pricing or cost review.
+- *High-risk product segments are concentrated in low-margin categories*, requiring immediate management attention.
+- Commodity-driven inflation significantly increases cost pressure across FMCG supply chains.
+- Regional contribution varies, showing imbalance in revenue distribution and profitability stability.
 
 ---
 
 ## Strategic Recommendations (To be added)
 
-- Review pricing strategy for low-margin categories  
-- Optimize sourcing for high-inflation commodities  
-- Focus expansion on stable, high-margin product segments  
-- Use dashboards for monthly executive decision reviews  
+- To improve profitability and reduce inflation-driven risk, FMCG leadership should consider:
+
+1. *Review pricing strategy for low-margin categories*
+   - Especially Snacks and Instant Food products.
+
+2. *Optimize raw material sourcing*
+   - Focus on commodities with high inflation impact such as milk, cocoa, and edible oils.
+
+3. *Strengthen cost control in packaging and logistics*
+   - These cost components contribute heavily to margin decline.
+
+4. *Prioritize stable and high-margin categories*
+   - Invest more in categories marked as “Stable”.
+
+5. *Use dashboards for monthly executive monitoring*
+   - Track inflation impact, margin health, and risk concentration regularly.
+ 
 
 ---
 
-## Next Updates
+## 📌 Data Note
 
-- Add detailed insights and business recommendations  
-- Upload final report documentation  
-  
+This project uses a simulated FMCG dataset designed to reflect real-world industry cost and sales patterns.
+
+Actual Nestlé SKU-level financial data is confidential and not publicly available.
+The dataset is created for learning and portfolio demonstration purposes only.
+
 
 ---
