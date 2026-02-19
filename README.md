@@ -47,7 +47,7 @@ Includes:
 
 ---
 
-## Key Insights (To be added)
+## Key Insights 
 
 - Based on the Power BI dashboard and SQL analysis, the following insights were identified:
 
@@ -59,7 +59,7 @@ Includes:
 
 ---
 
-## Strategic Recommendations (To be added)
+## Strategic Recommendations 
 
 - To improve profitability and reduce inflation-driven risk, FMCG leadership should consider:
 
